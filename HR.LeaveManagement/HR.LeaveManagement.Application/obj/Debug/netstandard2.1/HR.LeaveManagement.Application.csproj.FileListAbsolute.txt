@@ -1,0 +1,13 @@
+D:\DOTNET\DotNet Projects\Clean Architecture\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.deps.json
+D:\DOTNET\DotNet Projects\Clean Architecture\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.dll
+D:\DOTNET\DotNet Projects\Clean Architecture\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.pdb
+D:\DOTNET\DotNet Projects\Clean Architecture\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.dll
+D:\DOTNET\DotNet Projects\Clean Architecture\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.pdb
+D:\DOTNET\DotNet Projects\Clean Architecture\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+D:\DOTNET\DotNet Projects\Clean Architecture\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\DotNet Projects\Clean Architecture\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+D:\DOTNET\DotNet Projects\Clean Architecture\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.AssemblyInfo.cs
+D:\DOTNET\DotNet Projects\Clean Architecture\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+D:\DOTNET\DotNet Projects\Clean Architecture\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.CopyComplete
+D:\DOTNET\DotNet Projects\Clean Architecture\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.dll
+D:\DOTNET\DotNet Projects\Clean Architecture\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.pdb
